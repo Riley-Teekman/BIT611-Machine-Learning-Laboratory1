@@ -1,6 +1,1 @@
-﻿# BIT611-Machine-Learning-Laboratory1
-**Student Name:** Riley Teekman
 
-**Student ID:** 2023005271
-
-**Date:** 05/03/2026
